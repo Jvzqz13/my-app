@@ -2,7 +2,7 @@ function EmployeeListItems(){
     return (
         <div>
             <ul>
-                <li> Eomplyee #1 </li>
+                <li style = {{listStyleType: "none"}}> Employee #1 </li>
             </ul>
         </div>
     )
